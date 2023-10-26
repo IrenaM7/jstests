@@ -1,0 +1,17 @@
+let ageUser = 40;
+console.log(ageUser);
+ageUser += 15;
+console.log(ageUser);
+console.log(typeof ageUser);
+console.log(typeof true);
+const a = 10;
+const b = 5;
+console.log(a + b);
+console.log(a % b);
+console.log(a ** b);
+const result = a + b;
+console.log(result);
+const names = "Irena";
+const sourName = "Malinowska";
+const nam = `${names} ${sourName}`;
+console.log(nam);
